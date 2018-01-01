@@ -290,10 +290,10 @@ Purchase Premium Metronic Admin Theme: http://themeforest.net/item/metronic-resp
         <!-- BEGIN SIDEBAR & CONTENT -->
         <div class="row margin-bottom-40">
             <!-- BEGIN CONTENT -->
-            <div class="col-md-12 col-sm-12">
-                <h1>Blog Page</h1>
+
+
                 @yield('content')
-            </div>
+
             <!-- END CONTENT -->
         </div>
         <!-- END SIDEBAR & CONTENT -->
